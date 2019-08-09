@@ -1,10 +1,4 @@
-programa
-{
-	
-	funcao inicio()
-	{
-		escreva("Olá Mundo")
-	}
+
 	algoritmo "Zero_ou_Um"
 
 var
